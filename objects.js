@@ -9,3 +9,8 @@ function updatePlaylist(playlist,artistName,songTitle) {
     [artistName]: songTitle
   })
 }
+
+//remove an artist and song from "playlist"
+function removeFromPlaylist(playlist,artistName) {
+  return
+}
