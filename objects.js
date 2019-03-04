@@ -1,4 +1,4 @@
-//creates a playlist with one artist song 
+//creates an object called "playlist" with one Artist (key) and song (value) 
 var playlist = {
-  Eagles: "Take It Easy"
+  AhHa: "Take On Me"
 }
